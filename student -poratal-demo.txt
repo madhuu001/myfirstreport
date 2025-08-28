@@ -1,0 +1,7 @@
+name=madhu s
+college name=Aditya degree college for women
+course name=Bsc-cs-2
+suc code=2347390543
+roll no=90
+email=adityakkd@gmail.com
+address=kakinada
